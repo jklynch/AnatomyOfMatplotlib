@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jklynch/AnatomyOfMatplotlib/um2019?urlpath=lab)
 # Introduction
 This tutorial is a complete re-imagining of how one should teach users
 the matplotlib library. Hopefully, this tutorial may serve as inspiration
