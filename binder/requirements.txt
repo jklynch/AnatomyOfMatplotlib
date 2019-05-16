@@ -1,0 +1,18 @@
+bluesky
+git+https://github.com/NSLS-II/caproto@ophyd-tutorial  # TEMP BRANCH
+dask
+databroker
+distributed
+ipympl
+ipywidgets
+jupyterlab
+matplotlib
+ophyd
+pandas
+pyepics
+tornado<5
+pip<19
+
+# Careful: Changing these could break the cluster.
+jupyterhub>=0.9.6
+nbgitpuller
